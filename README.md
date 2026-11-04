@@ -43,7 +43,7 @@ Run these commands in your terminal:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/your-username/burp-pro-2.0.git
+git clone https://github.com/cybr-ad/burp-pro-2.0.git
 cd burp-pro-2.0
 
 # 2. Grant execution permission
